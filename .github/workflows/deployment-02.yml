@@ -1,4 +1,4 @@
-name: Deployment Ex 1
+name: Deployment Ex 1 - Seq
 on: push
 jobs:
   Lint_job:
